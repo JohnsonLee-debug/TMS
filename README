@@ -1,0 +1,11 @@
+============================================
+Introduction
+
+A turing machine simulator writen in GNU C.
+
+============================================
+Compilation
+
+gcc main.c -o main
+
+============================================
